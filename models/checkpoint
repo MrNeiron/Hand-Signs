@@ -1,0 +1,2 @@
+model_checkpoint_path: "SignModel_f.ckpt"
+all_model_checkpoint_paths: "SignModel_f.ckpt"
